@@ -1,0 +1,189 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #B0D9DB;
+}
+
+#anchor{
+    text-decoration: none;
+    margin: auto;
+    color: black;
+}
+
+h1 {
+    margin-top: 200px;
+    margin-right: 100px;
+    margin-left: 100px;
+    font-size: 40px;
+    font-family: 'Kaisei Opti', serif;
+    color: white;
+    font-weight: 600;
+}
+
+.container {
+    width: 1092px;
+    height: 560px;
+    background-color: #B0D9DB;
+    margin-left: 23%;
+    margin-top: -200px;
+    border-radius: 10px;
+    border: 5px solid white;
+    display: flex;
+    
+}
+
+#logo{
+    width: 40px;
+    height: auto;
+}
+
+.leftContent{
+    width: 30%;
+    padding: 15px;
+}
+
+#leftContentText{
+    font-family: 'Satisfy', cursive;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.signupContainer{
+    background-color: white;
+    width: 100%;
+    border-radius: 42px 0px 0px 42px;
+}
+
+.rightContent{
+    padding: 15px;
+    padding-left: 100px;
+    padding-top: 25px;
+}
+
+#beautyImage {
+    width: 309px;
+    margin-left: -283px;
+    margin-top: -311px;
+}
+
+.googleFB{
+    display: flex;
+    
+}
+
+.googleWrap{
+    border: 2px solid #e5e5e5;
+    padding: 12px;
+    display: flex;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.googleImg{
+    width: 20px;
+    height: auto;
+}
+
+.fbImg {
+    width: 20px;
+    height: 31px;
+    margin: auto;
+}
+
+
+.fbWrap{
+    border: 2px solid #e5e5e5;
+    padding: 5px;
+    display: flex;
+    margin: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+h3 {
+    padding-left: 5px;
+    font-family: 'Kaisei Opti', serif;
+    font-size: 28px;
+    font-weight: 900;
+    opacity: 70%;
+}
+
+.fb{
+    font-family: 'Kaisei Opti', serif;
+    margin: auto;
+}
+
+.google{
+    font-family: 'Kaisei Opti', serif;
+}
+
+.temp{
+    margin: auto;
+}
+
+.textBlock {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+    font-family: 'Kaisei Opti';
+    font-weight: 600;
+    font-size: 18px;
+    opacity: 55%;
+}
+
+.or{
+    padding-left: 39%;
+}
+
+.inputBlock {
+    font-size: 18px;
+    padding: 10px;
+    padding-right: 270px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #e5e5e5;
+    font-family: emoji;
+    opacity: 70%;
+}
+
+.form {
+    padding-left: 100px;
+}
+
+.createAccount {
+    border: 1px solid #5cc5c8;
+    text-align: center;
+    width: 491px;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: 'Kaisei Opti';
+    background-color: #5cc5c8;
+    color: white;
+}
+
+.havingAccount{
+    font-family: 'Kaisei Opti';
+    color: #a1b6ba;
+}
+
+.loginAnchor{
+    text-decoration: none;
+    color: #5cc5c8;
+}
+
+.lang{
+    text-align: right;
+    padding-top: 24px;
+}
+
+.langUk {
+    padding: 10px;
+    font-family: 'Kaisei Opti';
+    color: #a1b6ba;
+}
